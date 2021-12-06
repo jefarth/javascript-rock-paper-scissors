@@ -17,7 +17,7 @@ This project allows a user to play a simple game of rock, paper, scissors agains
 The following necessary dependencies must be installed to run the application properly: To install this project first create a new repository on your local machine. Navigate to GitHub and find the "Code" button. Click on it and select "SSH" within the drop down menu. Copy the SSH key. Open up a new terminal inside the new repository you created and write "git clone". Paste the SSH key in after and hit enter.
 
 ## Usage
-To use this application: This project can be found live here: .
+To use this application: This project can be found live here: [https://jefarth.github.io/javascript-rock-paper-scissors](https://jefarth.github.io/javascript-rock-paper-scissors/).
 
 ## License
 This project is licensed under the MIT License.
